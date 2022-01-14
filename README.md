@@ -1,5 +1,6 @@
-<h1 align="center">E ae ✌🏿, Sou o Claudio</h1>
-<h3 align="center">Um cientista de dados em formação e um entusiasta em aprender e compartilhar conhecimento</h3>
+<p align="center">
+  <img src="https://github.com/ClaudioDiporty/ClaudioDiporty/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+</p>
 
 - 📚 Atualmente estudo na Fatec Ourinhos [Faculdade de Tecnologia de Ourinhos](https://www.fatecourinhos.edu.br/)
 - 👨🏿‍💻 Eu procuro sempre colaborar em **Projetos de Ciência de Dados e Inteligência Artificial**
