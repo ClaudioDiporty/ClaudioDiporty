@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ClaudioDiporty/ClaudioDiporty/raw/main/assets/banner_e_ae_eu_sou_claudio.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/ClaudioDiporty/ClaudioDiporty/raw/main/assets/banner_e_ae_eu_sou_claudio.gif" alt="E ae, eu o Claudio">
 </p>
 
 - 📚 Atualmente estudo na Fatec Ourinhos [Faculdade de Tecnologia de Ourinhos](https://www.fatecourinhos.edu.br/)
