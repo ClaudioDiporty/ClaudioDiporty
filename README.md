@@ -18,7 +18,7 @@
 
 <h3 align="left">📊 Métricas do GitHub:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiodiporty&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiodiporty&layout=compact&langs_count=16&theme=dark" alt="claudiodiporty" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiodiporty&layout=compact&langs_count=16&theme=dark" alt="claudiodiporty" /></p>
 
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
