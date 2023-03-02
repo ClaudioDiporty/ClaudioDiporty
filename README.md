@@ -2,8 +2,8 @@
   <img src="https://github.com/ClaudioDiporty/ClaudioDiporty/raw/main/assets/banner_e_ae_eu_sou_claudio.gif" alt="E ae, eu o Claudio">
 </p>
 
-- 📚 Atualmente estudo na Fatec Ourinhos [Faculdade de Tecnologia de Ourinhos](https://www.fatecourinhos.edu.br/)
-- 👨🏿‍💻 Eu procuro sempre colaborar em **Projetos de Ciência de Dados e Inteligência Artificial**
+- 📚 Atualmente em "PAUSA" no estudo na Fatec Ourinhos
+- 👨🏿‍💻 Eu procuro sempre conhecer **Projetos de Ciência de Dados e Inteligência Artificial**
 - 💻 Meus projetos de aprendizagem estão em [https://github.com/ClaudioDiporty](https://github.com/ClaudioDiporty)
 - 💬 Pergunte e aprenderemos juntos sobre **Tecnologias, Ciência de Dados, Carreiras e etc; Ficarei feliz em aprendermos juntos ;)**
 - 📫 Fale comigo em **claudio.cardoso2@fatec.sp.gov.br**
