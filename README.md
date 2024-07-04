@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ClaudioDiporty/ClaudioDiporty/raw/main/assets/banner_e_ae_eu_sou_claudio.gif" alt="E ae, eu o Claudio">
+  <img src="https://https://github.com/Diporty/ClaudioDiporty/raw/main/assets/banner_e_ae_eu_sou_claudio.gif" alt="E ae, eu o Claudio">
 </p>
 
 - 📚 Atualmente em "PAUSA" no estudo na Fatec Ourinhos
