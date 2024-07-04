@@ -4,7 +4,7 @@
 
 - 📚 Atualmente em "PAUSA" no estudo na Fatec Ourinhos
 - 👨🏿‍💻 Eu procuro sempre conhecer **Projetos de Ciência de Dados e Inteligência Artificial**
-- 💻 Meus projetos de aprendizagem estão em [https://github.com/Diporty](https://github.com/Diporty)
+- 💻 Meus projetos de aprendizagem estão em [https://github.com/Diporty](https://github.com/Diporty/ClaudioDiporty)
 - 💬 Pergunte e aprenderemos juntos sobre **Tecnologias, Ciência de Dados, Carreiras e etc; Ficarei feliz em aprendermos juntos ;)**
 - 📫 Fale comigo em **claudio.cardoso2@fatec.sp.gov.br**
 - 📖 Saiba mais sobre mim em [linkedin.com/in/claudiocardosocienciasdedados](linkedin.com/in/claudiocardosocienciasdedados)
